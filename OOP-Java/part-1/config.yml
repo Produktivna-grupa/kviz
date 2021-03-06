@@ -1,0 +1,43 @@
+# The name of the current part. The name will stand on the sidebar
+name: Uvod
+
+# Optional: The description of the part
+description: U ovoj lekciji biće objašnjeni opšti pojmovi kao i razlog zbog kojeg nam je OOP potrebno.
+
+# Assets which will be cached if the user is offline. The assets need to be in the asset directory
+assets: []
+
+# The content of the part.
+items:
+- name: Dobrodošli
+  description: Dobrodošli na kurs
+  type: text
+- name: Šta je OOP?
+  type: text
+  text: >
+    Objektno-orjentisano programiranje (en. Object Oriented Programming), je koncept programiranje koji se zasniva na objektima i njihovom međusobnom interakcijom
+    Svaki objekat ima svoje osobine (stanja) koje se nazivaju *atributi* i načine ponašanja koje ispoljavaju i ti načini se zovu *metode*
+- name: Provera
+  # Optional: Max time in seconds (here: 10 minutes)
+  time: 30
+  type: quiz
+  questions:
+  - title: Šta znači akronim OOP?
+    description: Question 1 description
+    evaluation: An evaluation
+    answers:
+    - name: Object Oriented Politics
+    - name: Ordinary Object Pointer
+    - name: Object Oriented Principles
+    - name: Object Oriented Programming
+      points: 5
+      correct: true
+  - title: Šta svaki objekat ima?
+    description: Question 2 description
+    evaluation: An evaluation for question 2
+    answers:
+    - name: Promenljive i metode
+    - name: Promenljive i funkcije
+    - name: Atribute i metode
+      correct: true
+    - name: Atribute i funkcije

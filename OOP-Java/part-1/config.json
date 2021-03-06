@@ -1,0 +1,66 @@
+{
+    "name": "Uvod",
+    "description": "U ovoj lekciji biće objašnjeni opšti pojmovi kao i razlog zbog kojeg nam je OOP potrebno.",
+    "assets": [],
+    "items": [
+      {
+        "name": "Dobrodošli",
+        "description": "Dobrodošli na kurs",
+        "type": "text"
+      },
+      {
+        "name": "Šta je OOP?",
+        "type": "text",
+        "text": "Objektno-orjentisano programiranje (en. Object Oriented Programming), je koncept programiranje koji se zasniva na objektima i njihovom međusobnom interakcijom\nSvaki objekat ima svoje osobine (stanja) koje se nazivaju *atributi* i načine ponašanja koje ispoljavaju i ti načini se zovu *metode*\n"
+      },
+      {
+        "name": "Provera",
+        "time": 30,
+        "type": "quiz",
+        "questions": [
+          {
+            "title": "Šta znači akronim OOP?",
+            "description": "Question 1 description",
+            "evaluation": "An evaluation",
+            "answers": [
+              {
+                "name": "Object Oriented Politics"
+              },
+              {
+                "name": "Ordinary Object Pointer"
+              },
+              {
+                "name": "Object Oriented Principles"
+              },
+              {
+              	"name": "Object Oriented Programming",
+                "points": 5,
+                "correct": true
+              }
+            ]
+          },
+          {
+            "title": "Šta svaki objekat ima?",
+            "description": "Question 2 description",
+            "evaluation": "An evaluation for question 2",
+            "answers": [
+              {
+                "name": "Promenljive i metode"
+              },
+              {
+                "name": "Promenljive i funkcije"
+              },
+              {
+                "name": "Atribute i metode",
+                "points": 5,
+                "correct": true
+              },
+              {
+                "name": "Atribute i funkcije"
+              },
+            ]
+          }
+        ]
+      }
+    ]
+  }

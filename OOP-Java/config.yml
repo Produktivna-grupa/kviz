@@ -1,0 +1,40 @@
+# The course. See the preview to understand all config entries
+parts:
+- part-1
+
+# The icon of the backend. Supported values are [png, jpg, svg, null]
+icon: png
+
+# The name of the course. You can see it in the title or in the list
+name: Uvod OOP - Java
+
+# The author. It will appear on the front page and on the courses list
+author: Produktivna grupa
+author_url: https://github.com/Produktivna-grupa
+author_avatar: https://raw.githubusercontent.com/Produktivna-grupa/PMFKG/master/pmflogo.gif
+
+# The description of the course which can be seen in the list of the courses and the intro page.
+description: >
+  Uvodni kurs objektno-orjentisanog programiranja uz pomoć programskog jezika Java.
+  
+# The body is posting on the home page of the course page. Source: https://remarkjs.github.io/react-markdown/
+body: |
+  Ukoliko želite za započnete kviz pritisnite dugme u gornjem desnom uglu.
+
+# The current category of the course. You can see the categories in the list
+category: [OOP, Java]
+
+# The language of the course. You can see a flag as a badge of the course.
+lang: sr
+
+# Controls if the course is shown in the list
+private: false
+
+# The course. See the preview to understand all config entries
+parts:
+- part-1
+
+
+
+
+
