@@ -5,7 +5,9 @@
     "items": [
       {
         "name": "Dobrodošli",
-        "description": "Dobrodošli na kurs"
+        "description": "Dobrodošli na kurs",
+        "type": "text",
+        "text": "Na ovom kursu naučićete šta prestavlja objektno-orjentisano programiranje, čemu služi i kako ga implementirati uz pomoć programskog jezika Java."
       },
       {
         "name": "Šta je OOP?",
