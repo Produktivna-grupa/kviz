@@ -1,11 +1,10 @@
 # The name of the current backend
-name: "Dev-Doctor"
+name: "PMFKG-Kviz"
 # The icon of the backend. Supported values are [png, jpg, svg, null]
-icon: png
+icon: null
 # All courses of the current backend
 courses:
-  - example
-  - example2
-support_url: https://discord.linwood.tk
+  - OOP-Java
+support_url: https://discord.gg/by9wC55xJ7
 body: |
-  This is an example backend to demonstrate the functionality of the app.
+  PMFKG-Kviz backend
