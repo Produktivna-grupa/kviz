@@ -11,15 +11,14 @@ assets: []
 items:
 - name: Dobrodošli
   description: Dobrodošli na kurs
-  type: text
-  text: > 
     
 - name: Šta je OOP?
   type: text
   text: >
     Objektno-orjentisano programiranje (en. Object Oriented Programming), je koncept programiranje koji se zasniva na objektima i njihovom međusobnom interakcijom
     
-    Svaki objekat ima svoje osobine (stanja) koje se nazivaju *atributi* i načine ponašanja koje ispoljavaju i ti načini se zovu *metode*
+    
+    Svaki objekat ima svoje osobine (stanja) koje se nazivaju **atributi** i načine ponašanja koje ispoljavaju i ti načini se zovu **metode**
 - name: Provera
   # Optional: Max time in seconds (here: 10 minutes)
   time: 30
