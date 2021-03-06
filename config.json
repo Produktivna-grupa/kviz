@@ -1,0 +1,10 @@
+{
+  "name": "Dev-Doctor",
+  "icon": "png",
+  "courses": [
+    "example",
+    "example2"
+  ],
+  "support_url": "https://discord.linwood.tk",
+  "body": "This is an example backend to demonstrate the functionality of the app."
+}
