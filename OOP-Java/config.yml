@@ -1,7 +1,3 @@
-# The course. See the preview to understand all config entries
-parts:
-- part-1
-
 # The icon of the backend. Supported values are [png, jpg, svg, null]
 icon: png
 
@@ -33,8 +29,6 @@ private: false
 # The course. See the preview to understand all config entries
 parts:
 - part-1
-
-
 
 
 
