@@ -15,7 +15,7 @@ description: >
   
 # The body is posting on the home page of the course page. Source: https://remarkjs.github.io/react-markdown/
 body: |
-  Ukoliko želite da započnete kviz pritisnite dugme u gornjem desnom uglu.
+  Ukoliko želite da započnete učenje pritisnite dugme u gornjem desnom uglu.
 
 # The current category of the course. You can see the categories in the list
 category: [OOP, Java]
