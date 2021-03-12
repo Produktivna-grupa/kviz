@@ -12,7 +12,7 @@
       {
         "name": "Šta je OOP?",
         "type": "text",
-        "text": "Objektno-orjentisano programiranje (en. Object Oriented Programming), je koncept programiranje koji se zasniva na objektima i njihovom međusobnom interakcijom.\n\n  Svaki objekat ima svoje osobine (stanja) koje se nazivaju **atributi** i načine ponašanja koje ispoljavaju i ti načini se zovu **metode**\n"
+        "text": "Objektno-orjentisano programiranje (en. Object Oriented Programming), je koncept programiranje koji se zasniva na objektima i njihovoj međusobnoj interakciji.\n\n  Svaki objekat ima svoje osobine (stanja) koje se nazivaju **atributi** i načine ponašanja koji se nazivaju **metode**\n"
       },
       {
         "name": "Provera",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "title": "Šta svaki objekat ima?",
+            "title": "Šta karakteriše svaki objekat?",
             "description": "Question 2 description",
             "evaluation": "An evaluation for question 2",
             "answers": [
@@ -52,12 +52,12 @@
                 "name": "Promenljive i funkcije"
               },
               {
-                "name": "Atribute i metode",
+                "name": "Atributi i metode",
                 "points": 5,
                 "correct": true
               },
               {
-                "name": "Atribute i funkcije"
+                "name": "Atributi i funkcije"
               },
             ]
           }

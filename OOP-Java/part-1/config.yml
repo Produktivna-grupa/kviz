@@ -21,7 +21,7 @@ items:
     **Objektno-orjentisano programiranje** (en. Object Oriented Programming), je koncept programiranje koji se zasniva na objektima i njihovom međusobnom interakcijom.
     
     
-    Svaki objekat ima svoje osobine (stanja) koje se nazivaju **atributi** i načine ponašanja koje ispoljavaju i ti načini se zovu **metode**
+    Svaki objekat ima svoje osobine (stanja) koje se nazivaju **atributi** i načine ponašanja koji se nazivaju **metode**
 - name: Provera
   # Optional: Max time in seconds (here: 10 minutes)
   time: 30
@@ -37,12 +37,12 @@ items:
     - name: Object Oriented Programming
       points: 5
       correct: true
-  - title: Šta svaki objekat ima?
+  - title: Šta karakteriše svaki objekat?
     description: Question 2 description
     evaluation: An evaluation for question 2
     answers:
     - name: Promenljive i metode
     - name: Promenljive i funkcije
-    - name: Atribute i metode
+    - name: Atributi i metode
       correct: true
-    - name: Atribute i funkcije
+    - name: Atributi i funkcije
