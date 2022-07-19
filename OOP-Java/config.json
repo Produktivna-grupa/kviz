@@ -1,9 +1,9 @@
 {
   "icon": "png",
   "name": "Uvod OOP - Java",
-  "author": "Produktivna grupa",
-  "author_url": "https://github.com/Produktivna-grupa",
-  "author_avatar": "https://raw.githubusercontent.com/Produktivna-grupa/PMFKG/master/pmflogo.gif",
+  "author": "StudNet",
+  "author_url": "https://github.com/studnetwork",
+  "author_avatar": "https://raw.githubusercontent.com/studnetwork/PMFKG/master/pmflogo.gif",
   "description": "Uvodni kurs objektno-orjentisanog programiranja uz pomoć programskog jezika Java.\n",
   "body": "Ukoliko želite da započnete učenje pritisnite dugme u gornjem desnom uglu.\n",
   "category": [
