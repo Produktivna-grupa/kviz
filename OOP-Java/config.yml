@@ -5,9 +5,9 @@ icon: png
 name: Uvod OOP - Java
 
 # The author. It will appear on the front page and on the courses list
-author: Produktivna grupa
-author_url: https://github.com/Produktivna-grupa
-author_avatar: https://raw.githubusercontent.com/Produktivna-grupa/PMFKG/master/pmflogo.gif
+author: StudNet
+author_url: https://github.com/studnetwork
+author_avatar: https://raw.githubusercontent.com/studnetwork/PMFKG/master/pmflogo.gif
 
 # The description of the course which can be seen in the list of the courses and the intro page.
 description: >
